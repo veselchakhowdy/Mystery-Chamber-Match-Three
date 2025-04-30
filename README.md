@@ -1,5 +1,5 @@
 # Mystery Chamber Match-Three — Source
-Мод на основе Frogy Match-Three
+Мод на основе Froggy Match-Three
 Версия мода: v1.0
 Основано на версии исходного кода: v1.3
 
